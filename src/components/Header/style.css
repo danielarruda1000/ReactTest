@@ -1,0 +1,14 @@
+header,h1{
+    display: flex;
+    justify-content: center;
+    
+}
+
+header{
+    background-color: #dc3545;
+}
+
+h1{
+    font-family: 'Bowlby One SC';
+    color: whitesmoke;    
+}

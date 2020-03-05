@@ -1,0 +1,15 @@
+p,h5,h3{
+    text-transform:capitalize;
+}
+
+.btnModal{
+    background-color: #dc3545;
+}
+
+.btnModal:hover{
+    background-color: #b42b39
+}
+
+.btn{
+    border: none;
+}
